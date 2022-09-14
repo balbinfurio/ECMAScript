@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/balbinfurio/ECMAScript/issues"
   },
-  "homepage": "https://github.com/balbinfurio/ECMAScript#readme"
+  "homepage": "https://github.com/balbinfurio/ECMAScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
